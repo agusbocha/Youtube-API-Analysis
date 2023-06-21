@@ -8,6 +8,6 @@ In the exploratory analysis of this information we can see that Mr Beast is the 
 Images/Subscriptrors and Views.png
 
 
-![Texto alternativo]('Images/Subscriptrors and Views.png')
+![Texto alternativo](Images/Subscriptrors and Views.png)
 
 In the next section of the project, 
