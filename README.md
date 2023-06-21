@@ -15,4 +15,4 @@ We can also confirm that the features Subscriptors and Views are positevely corr
 ![Subscriptions and Views Correlation](Images/Subcriptors-Views-Correlation.png)
 
 ### Section 2 and 3
-In the next sections of the project, I took a sample of 5 channels used in the previous section to get all the video ids of them. Then, I collected information of each of those video ids.
+In the next sections of the project, I took a sample of 10 channels used in the previous section to get all the video ids of them. Then, I collected information of each of those video ids.
