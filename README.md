@@ -7,7 +7,7 @@ In the exploratory analysis of this information we can see that Mr Beast is the 
 
 Images/Subscriptrors and Views.png
 
+
 ![Texto alternativo](Images/Subscriptrors and Views.png)
 
-https://github.com/agusbocha/Youtube-API-Analysis/blob/f94812e80c9baf37ef2b73cd498fdc2a7ddd2896/Images/Subscriptrors%20and%20Views.png
 In the next section of the project, 
