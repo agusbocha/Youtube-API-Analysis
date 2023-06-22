@@ -22,7 +22,7 @@ From that information, we can conclude that the number of videos published in th
 
 ![Published Videos Time Series](Images/Published-videos-time-series.png)
 
-Besides, we can see a comparison between the cumulative views that each of the channels has. We can see that Br Beast is by far the most viewed channel, being 2017 and 2018 the years where this channel exponentially grew in views reaching at the momento of doing this, an impressive amount of 27 Billion total views. It almost doubles the second most viewed channel of this list which is Marshmello.
+Besides, we can see a comparison between the cumulative views that each of the channels has. We can see that Br Beast is by far the most viewed channel, being 2017 and 2018 the years where this channel exponentially grew in views reaching at the moment of doing this, an impressive amount of 27 Billion total views. It almost doubles the second most viewed channel of this list which is Marshmello.
 
 ![Cumulative Views by Channel](Images/Cumulative-Views-ByChannel.png)
 
