@@ -1,7 +1,7 @@
 # Youtube-API-Analysis
 
 ### Project Goal:
-The idea of this project is to connect to the Youtube API to get relevant information about channels and videos and to analyze the collected information
+The idea of this project is to connect to the Youtube API to get relevant information about channels and videos and to analyze the collected information.
 
 ### Section 1
 I got information about 30 most relevant channels in Youtube, getting stats such as Views, Subscribers and Total Videos
@@ -51,3 +51,4 @@ Finally, I analyzed the usage of emojis in the comments using the emojis library
 
 That concludes this project.
 
+* information collected on 22/06/2023
