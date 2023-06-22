@@ -41,3 +41,8 @@ The next step was to analyze the sentiment of the comments. I stayed only with t
 
 ![Sentiment Analysis](Images/sentiment-analysis.png)
 
+The next step was to do a Spam Detection of the comments collected. I used the Bernoulli model trained with 5 datasets that cointain information about comments and their yes or no spam column. The result show that 13.5% of the comments were labeled as Spam.
+
+![Spam Detection](Images/spam-detection.png)
+
+
