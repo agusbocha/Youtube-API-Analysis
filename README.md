@@ -16,3 +16,8 @@ We can also confirm that the features Subscriptors and Views are positevely corr
 
 ### Section 2 and 3
 In the next sections of the project, I took a sample of 10 channels used in the previous section to get all the video ids of them. Then, I collected information of each of those video ids.
+
+From that information, I can conclude that the number of videos published in those channels started in early 2007 and it was not until 2012 when it started to raise mostly because of the uploads from ElRubius. This positive tendendecy had it peak on July 2015 when 68 videos were published and it continued until the early 2020 when the amount of videos published dropped as a consecuence of the pandemic and the irruption of Twitch.
+
+![Published Videos Time Series](Images/Published-videos-time-series.png)
+
