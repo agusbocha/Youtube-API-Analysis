@@ -36,3 +36,8 @@ In this section, I analize the comments made to the videos. In order to have a r
 First, I analyzed the language of the comments. Using the library langdetect and excluding comments of less than one word, I could see that English is the most used language, almost doubling the second that is Spanish. As third, it appears the Portuguese.
 
 ![Comments by Language](Images/comments-languages.png)
+
+The next step was to analyze the sentiment of the comments. I stayed only with the english comments and I used the textblob library, that gives a value from -1(completely negative) to 1(completely positive). I took comments from -0.25 to -1 as negatives and 0.25 to 1 as positives, being the rest neutral. Analyzing only positive and negatives comments we can see that 87% of the comments were positives and 13% were negatives.
+
+![Sentiment Analysis](Images/sentiment-analysis.png)
+
