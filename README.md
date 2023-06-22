@@ -45,4 +45,9 @@ The next step was to do a Spam Detection of the comments collected. I used the B
 
 ![Spam Detection](Images/spam-detection.png)
 
+Finally, I analyzed the usage of emojis in the comments using the emojis library. The result shows that the 'hearth' is by far the most used emoji.
+
+![Emojis Usage](Images/emojis.png)
+
+That concludes this project.
 
