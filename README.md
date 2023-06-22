@@ -29,3 +29,10 @@ Besides, we can see a comparison between the cumulative views that each of the c
 Also, we can see a comparison between the most viewed video from each of the channels. We can see that Alan Walker video 'Faded' and Marshmello video 'Alone' are the most viewed videos with around 3 and 2 times of views respectevely than the third in the list.
 
 ![Most Viewed Videos by Channel](Images/Most-Viewed-videos-ByChannel.png)
+
+## Section 4
+In this section, I analize the comments made to the videos. In order to have a reasonable good performance, I took the 100 most seen videos from each of the 10 channels I took before and obtained 50 comments from each of these videos, making my new dataset of around 50K comments.
+
+First, I analyzed the language of the comments. Using the library langdetect and excluding comments of less than one word, I could see that English is the most used language, almost doubling the second that is Spanish. As third, it appears the Portuguese.
+
+![Comments by Language](Images/comments-languages.png)
