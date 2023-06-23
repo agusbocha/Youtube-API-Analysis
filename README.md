@@ -4,7 +4,7 @@
 The idea of this project is to connect to the Youtube API to get relevant information about channels and videos and to analyze the collected information.
 
 ### Section 1
-I got information about 30 most relevant channels in Youtube, getting stats such as Views, Subscribers and Total Videos
+I got information about 30 of the most relevant channels in Youtube, getting stats such as Views, Subscribers and Total Videos
 
 In the exploratory analysis of this information we can see that Mr Beast is the channel with the most Subscribers whereas Like Nastya is the channel with the most views. 
 
@@ -16,7 +16,7 @@ We can also confirm that the features Subscriptors and Views are positevely corr
 
 
 ### Section 2 and 3
-In the next sections of the project, I took a sample of 10 channels used in the previous section to get all the video ids of them. Then, I collected information of each of those video ids.
+In the next sections of the project, I took a sample of 10 channels used in the previous section to get all the videos from them. Then, I collected information of each of those video.
 
 From that information, we can conclude that the number of videos published in those channels started in early 2007 and it was not until 2012 when it started to raise mostly because of the uploads from ElRubius. This positive tendendecy had it peak on July 2015 when 68 videos were published and it continued until the early 2020 when the amount of videos published dropped as a consecuence of the pandemic and the irruption of Twitch.
 
@@ -41,7 +41,7 @@ The next step was to analyze the sentiment of the comments. I stayed only with t
 
 ![Sentiment Analysis](Images/sentiment-analysis.png)
 
-The next step was to do a Spam Detection of the comments collected. I used the Bernoulli model trained with 5 datasets that cointain information about comments and their yes or no spam column. The result show that 13.5% of the comments were labeled as Spam.
+The next step was to do a Spam Detection of the comments collected. I used the Bernoulli model trained with 5 datasets that cointain information about comments and their yes or no spam column. The result show that only 13.5% of the comments were labeled as Spam.
 
 ![Spam Detection](Images/spam-detection.png)
 
